@@ -6,7 +6,7 @@
 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [jumbojavelin.java](https://github.com/MaySuresh/Kattis/blob/main/Java/jumbojavelin.java) |
 | [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [echoechoecho.java](https://github.com/MaySuresh/Kattis/blob/main/Java/echoechoecho.java) |
 | [Homework](https://open.kattis.com/problems/heimavinna) | [homework.java](https://github.com/MaySuresh/Kattis/blob/main/Java/homework.java) |
-| [Odd Echo](https://open.kattis.com/problems/oddecho) | [oddecho.java]() |
+| [Odd Echo](https://open.kattis.com/problems/oddecho) | [oddecho.java](https://github.com/MaySuresh/Kattis/blob/main/Java/oddecho.java) |
 | ------------- | ------------- |
 | ------------- | ------------- |
 | ------------- | ------------- |
